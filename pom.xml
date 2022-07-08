@@ -7,7 +7,7 @@
         <relativePath />
     </parent>
     <groupId>com.scoperetail.commons</groupId>
-    <artifactId>commons-jaxb-java8</artifactId>
+    <artifactId>commons-jaxb-java-8</artifactId>
     <version>0.1-SNAPSHOT</version>
     <name>${project.artifactId}</name>
     <description>Jaxb utility library</description>
