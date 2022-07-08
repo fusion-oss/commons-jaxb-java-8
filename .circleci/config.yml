@@ -11,6 +11,7 @@ workflows:
           context:
             - OSSRH
             - SLACK
+          executor: marvel/java8
           filters:
             branches:
               ignore:
@@ -29,6 +30,7 @@ workflows:
           context:
             - OSSRH
             - SLACK
+          executor: marvel/java8
           filters:
             branches:
               only:
